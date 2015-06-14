@@ -64,7 +64,7 @@ div.menu ul:after {
 }
 
 #panel {
-    background-color: #516D88 !important;
+    background: #516D88 !important;
     border-style: none !important;
     line-height: 20px !important;
     padding: 25px !important;
