@@ -427,7 +427,7 @@ table.tborder {
 }
 
 tborder {
-	background-color: #6D5E83;
+	background-color: #6683BF;
     padding: 0 !important;
 }
 
@@ -537,6 +537,7 @@ td.thead div {
 }
 
 span.smalltext.float_right {
+    background-color:#6683BF !important;
     display: none !important;
 }
 
@@ -774,7 +775,7 @@ a.usercp_nav_item {
 }
 
 div.float_right a {
-	background-color: #6683BF;
+	background-color: #6683BF !important;
     font-size: 11px !important;
 }
 
