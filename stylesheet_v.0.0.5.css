@@ -505,10 +505,12 @@ ul.shadetabs li a:hover {
 }
 
 #panel strong {
+    background-color: #516D88 !important;
     font-weight: normal !important;
 }
 
 #panel strong a {
+    background-color: #516D88 !important;
     font-weight: bold !important;
 }
 
